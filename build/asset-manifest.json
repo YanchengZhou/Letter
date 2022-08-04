@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Letter/static/css/main.00f9ee94.css",
+    "main.js": "/Letter/static/js/main.1590a576.js",
+    "static/js/787.cb14bb75.chunk.js": "/Letter/static/js/787.cb14bb75.chunk.js",
+    "static/media/DongJingJieJiaoDeXiaoLangMan-2.ttf": "/Letter/static/media/DongJingJieJiaoDeXiaoLangMan-2.64f79cdf3c5a18d54766.ttf",
+    "static/media/cover.png": "/Letter/static/media/cover.c72cc34024017a5bb4db.png",
+    "static/media/paper.jpg": "/Letter/static/media/paper.98ad3f6466f2fb7ac165.jpg",
+    "static/media/paper2.jpg": "/Letter/static/media/paper2.a83772ea30040060f0ae.jpg",
+    "static/media/background.jpg": "/Letter/static/media/background.20583e4685e6a4b94b1f.jpg",
+    "static/media/logo.svg": "/Letter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Letter/index.html",
+    "main.00f9ee94.css.map": "/Letter/static/css/main.00f9ee94.css.map",
+    "main.1590a576.js.map": "/Letter/static/js/main.1590a576.js.map",
+    "787.cb14bb75.chunk.js.map": "/Letter/static/js/787.cb14bb75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f9ee94.css",
+    "static/js/main.1590a576.js"
+  ]
+}
